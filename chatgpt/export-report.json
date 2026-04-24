@@ -1,0 +1,813 @@
+{
+  "source_type": "project_url_list",
+  "url_list": "/tmp/cgme-project-1-urls.txt",
+  "updated_at": "2026-04-24T04:19:39Z",
+  "summary": {
+    "total": 100,
+    "success": 100,
+    "failed": 0,
+    "skipped": 0
+  },
+  "entries": [
+    {
+      "line": 15,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/694cee64-e5f8-832c-913b-b1149c499e2a",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_超越数与无理数__694cee64-e5f8-832c-913b-b1149c499e2a/001_超越数与无理数__694cee64-e5f8-832c-913b-b1149c499e2a.md",
+      "updated_at": "2026-04-24T03:46:12Z"
+    },
+    {
+      "line": 2,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/692e8139-9b94-8327-96da-b5be0568371d",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_网红数学题无解__692e8139-9b94-8327-96da-b5be0568371d/001_网红数学题无解__692e8139-9b94-8327-96da-b5be0568371d.md",
+      "updated_at": "2026-04-24T03:46:21Z"
+    },
+    {
+      "line": 3,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/690032ac-e760-8321-9328-7fe1f706b10e",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_时针分针秒针三等分__690032ac-e760-8321-9328-7fe1f706b10e/001_时针分针秒针三等分__690032ac-e760-8321-9328-7fe1f706b10e.md",
+      "updated_at": "2026-04-24T03:46:29Z"
+    },
+    {
+      "line": 4,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/69002f79-d7bc-8321-a295-d4b8f2e33ec6",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_全等判断分析__69002f79-d7bc-8321-a295-d4b8f2e33ec6/001_全等判断分析__69002f79-d7bc-8321-a295-d4b8f2e33ec6.md",
+      "updated_at": "2026-04-24T03:46:38Z"
+    },
+    {
+      "line": 5,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/69002c01-ee88-8322-b2c9-52d1e44bbbc6",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_找出最大数__69002c01-ee88-8322-b2c9-52d1e44bbbc6/001_找出最大数__69002c01-ee88-8322-b2c9-52d1e44bbbc6.md",
+      "updated_at": "2026-04-24T03:46:47Z"
+    },
+    {
+      "line": 6,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/69002c89-c8bc-8322-a5fe-6009b0fb9733",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_无理数和证明__69002c89-c8bc-8322-a5fe-6009b0fb9733/001_无理数和证明__69002c89-c8bc-8322-a5fe-6009b0fb9733.md",
+      "updated_at": "2026-04-24T03:46:55Z"
+    },
+    {
+      "line": 7,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68ffcc54-ed10-8323-bc05-2acaddb9a0a4",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_变分法经典例题__68ffcc54-ed10-8323-bc05-2acaddb9a0a4/001_变分法经典例题__68ffcc54-ed10-8323-bc05-2acaddb9a0a4.md",
+      "updated_at": "2026-04-24T03:47:04Z"
+    },
+    {
+      "line": 8,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68ffa0d0-5ed8-8324-a671-2489f269f1cf",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_环上随机游走期望__68ffa0d0-5ed8-8324-a671-2489f269f1cf/001_环上随机游走期望__68ffa0d0-5ed8-8324-a671-2489f269f1cf.md",
+      "updated_at": "2026-04-24T03:47:13Z"
+    },
+    {
+      "line": 9,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68ff8e0b-0488-8322-8a81-6eb3f633a8b2",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_随机数生成__68ff8e0b-0488-8322-8a81-6eb3f633a8b2/001_随机数生成__68ff8e0b-0488-8322-8a81-6eb3f633a8b2.md",
+      "updated_at": "2026-04-24T03:47:22Z"
+    },
+    {
+      "line": 10,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68ff8cde-0548-8322-91d5-cfc5c3f63ebf",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_空箱子期望数量__68ff8cde-0548-8322-91d5-cfc5c3f63ebf/001_空箱子期望数量__68ff8cde-0548-8322-91d5-cfc5c3f63ebf.md",
+      "updated_at": "2026-04-24T03:47:31Z"
+    },
+    {
+      "line": 11,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68ff7ab3-ffac-8323-8e8c-5c5f098d0550",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_解方程-3x-4x-5x__68ff7ab3-ffac-8323-8e8c-5c5f098d0550/001_解方程-3x-4x-5x__68ff7ab3-ffac-8323-8e8c-5c5f098d0550.md",
+      "updated_at": "2026-04-24T03:47:40Z"
+    },
+    {
+      "line": 12,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68ff5326-aaf8-8323-a53d-dbead923ffe7",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_好评率__68ff5326-aaf8-8323-a53d-dbead923ffe7/001_好评率__68ff5326-aaf8-8323-a53d-dbead923ffe7.md",
+      "updated_at": "2026-04-24T03:47:49Z"
+    },
+    {
+      "line": 13,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fee0ff-e508-8324-8414-be0058314146",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_matlab与mathematica对比__68fee0ff-e508-8324-8414-be0058314146/001_matlab与mathematica对比__68fee0ff-e508-8324-8414-be0058314146.md",
+      "updated_at": "2026-04-24T03:47:58Z"
+    },
+    {
+      "line": 14,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fe50e8-ddb8-8322-b10e-de9ce4bb3b29",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_埃及分数证明__68fe50e8-ddb8-8322-b10e-de9ce4bb3b29/001_埃及分数证明__68fe50e8-ddb8-8322-b10e-de9ce4bb3b29.md",
+      "updated_at": "2026-04-24T03:48:07Z"
+    },
+    {
+      "line": 1,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fec776-9050-8324-8d19-1471eb922032",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_无限次幂塔求值__68fec776-9050-8324-8d19-1471eb922032/001_无限次幂塔求值__68fec776-9050-8324-8d19-1471eb922032.md",
+      "updated_at": "2026-04-24T04:19:39Z"
+    },
+    {
+      "line": 16,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fe4d1d-9050-8322-9b13-5940ca98222e",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_正态分布与高斯积分__68fe4d1d-9050-8322-9b13-5940ca98222e/001_正态分布与高斯积分__68fe4d1d-9050-8322-9b13-5940ca98222e.md",
+      "updated_at": "2026-04-24T03:48:26Z"
+    },
+    {
+      "line": 17,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fd95ce-e0bc-8320-9375-1d123faab476",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_计算三角表达式结果__68fd95ce-e0bc-8320-9375-1d123faab476/001_计算三角表达式结果__68fd95ce-e0bc-8320-9375-1d123faab476.md",
+      "updated_at": "2026-04-24T03:48:35Z"
+    },
+    {
+      "line": 18,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fd9400-c6a0-8330-9846-be58d0f3c3cf",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_圆周率公式证明__68fd9400-c6a0-8330-9846-be58d0f3c3cf/001_圆周率公式证明__68fd9400-c6a0-8330-9846-be58d0f3c3cf.md",
+      "updated_at": "2026-04-24T03:48:43Z"
+    },
+    {
+      "line": 19,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fc4e08-6720-8329-8fcb-c716b2f0f107",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_椭圆周长公式__68fc4e08-6720-8329-8fcb-c716b2f0f107/001_椭圆周长公式__68fc4e08-6720-8329-8fcb-c716b2f0f107.md",
+      "updated_at": "2026-04-24T03:48:53Z"
+    },
+    {
+      "line": 20,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fce137-85fc-832c-9ba8-3f6cf47c525c",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_证明方程条件__68fce137-85fc-832c-9ba8-3f6cf47c525c/001_证明方程条件__68fce137-85fc-832c-9ba8-3f6cf47c525c.md",
+      "updated_at": "2026-04-24T03:49:02Z"
+    },
+    {
+      "line": 21,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fcdff8-9444-832b-b098-d01e2d1d052a",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_化简表达式结果__68fcdff8-9444-832b-b098-d01e2d1d052a/001_化简表达式结果__68fcdff8-9444-832b-b098-d01e2d1d052a.md",
+      "updated_at": "2026-04-24T03:49:10Z"
+    },
+    {
+      "line": 22,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fcdb2e-20cc-8324-b73d-0ef8d3ddcf8d",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_bbp公式证明__68fcdb2e-20cc-8324-b73d-0ef8d3ddcf8d/001_bbp公式证明__68fcdb2e-20cc-8324-b73d-0ef8d3ddcf8d.md",
+      "updated_at": "2026-04-24T03:49:19Z"
+    },
+    {
+      "line": 23,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fcd35d-69b0-8322-a376-316dbd324dd4",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_小圆转圈数计算__68fcd35d-69b0-8322-a376-316dbd324dd4/001_小圆转圈数计算__68fcd35d-69b0-8322-a376-316dbd324dd4.md",
+      "updated_at": "2026-04-24T03:49:28Z"
+    },
+    {
+      "line": 24,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fcd149-dec4-8323-b367-ac6d92c83be0",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_正三角形面积求解__68fcd149-dec4-8323-b367-ac6d92c83be0/001_正三角形面积求解__68fcd149-dec4-8323-b367-ac6d92c83be0.md",
+      "updated_at": "2026-04-24T03:49:37Z"
+    },
+    {
+      "line": 25,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fc61de-ea1c-8322-9479-df91419f3bf7",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_大圆半径最大值__68fc61de-ea1c-8322-9479-df91419f3bf7/001_大圆半径最大值__68fc61de-ea1c-8322-9479-df91419f3bf7.md",
+      "updated_at": "2026-04-24T03:49:47Z"
+    },
+    {
+      "line": 26,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fc570d-4124-8323-a601-05ffe093de08",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_不等式证明分析__68fc570d-4124-8323-a601-05ffe093de08/001_不等式证明分析__68fc570d-4124-8323-a601-05ffe093de08.md",
+      "updated_at": "2026-04-24T03:49:55Z"
+    },
+    {
+      "line": 27,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fc50d6-86c8-8330-9d19-4f42260f2bc2",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_最大化函数值__68fc50d6-86c8-8330-9d19-4f42260f2bc2/001_最大化函数值__68fc50d6-86c8-8330-9d19-4f42260f2bc2.md",
+      "updated_at": "2026-04-24T03:50:04Z"
+    },
+    {
+      "line": 28,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fc4efa-8ec0-832b-a52b-150c5621f4b9",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_积分可积性与值__68fc4efa-8ec0-832b-a52b-150c5621f4b9/001_积分可积性与值__68fc4efa-8ec0-832b-a52b-150c5621f4b9.md",
+      "updated_at": "2026-04-24T03:50:13Z"
+    },
+    {
+      "line": 29,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fc45a1-498c-8327-aad2-84ae5429bad6",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_互质概率计算__68fc45a1-498c-8327-aad2-84ae5429bad6/001_互质概率计算__68fc45a1-498c-8327-aad2-84ae5429bad6.md",
+      "updated_at": "2026-04-24T03:50:22Z"
+    },
+    {
+      "line": 30,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f9cd1b-912c-8324-b3ee-816a62de5450",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_数学不等式证明__68f9cd1b-912c-8324-b3ee-816a62de5450/001_数学不等式证明__68f9cd1b-912c-8324-b3ee-816a62de5450.md",
+      "updated_at": "2026-04-24T03:50:31Z"
+    },
+    {
+      "line": 31,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fc1e81-c3cc-8323-9604-f28876d3b4b1",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_不等式证明__68fc1e81-c3cc-8323-9604-f28876d3b4b1/001_不等式证明__68fc1e81-c3cc-8323-9604-f28876d3b4b1.md",
+      "updated_at": "2026-04-24T03:50:40Z"
+    },
+    {
+      "line": 32,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fc1cc8-0804-8324-a877-c3a10236ed29",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_求解抽象函数2__68fc1cc8-0804-8324-a877-c3a10236ed29/001_求解抽象函数2__68fc1cc8-0804-8324-a877-c3a10236ed29.md",
+      "updated_at": "2026-04-24T03:50:49Z"
+    },
+    {
+      "line": 33,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fc1b3b-b0ec-8322-a731-788c576e967e",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_曲线面积计算__68fc1b3b-b0ec-8322-a731-788c576e967e/001_曲线面积计算__68fc1b3b-b0ec-8322-a731-788c576e967e.md",
+      "updated_at": "2026-04-23T11:54:45Z"
+    },
+    {
+      "line": 34,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fb6d2c-ef88-8323-a5da-4d3f762d46d5",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_正整数解分析__68fb6d2c-ef88-8323-a5da-4d3f762d46d5/001_正整数解分析__68fb6d2c-ef88-8323-a5da-4d3f762d46d5.md",
+      "updated_at": "2026-04-23T11:54:53Z"
+    },
+    {
+      "line": 35,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fb68e1-efa4-8322-9b47-001f882aedb6",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_求解抽象函数__68fb68e1-efa4-8322-9b47-001f882aedb6/001_求解抽象函数__68fb68e1-efa4-8322-9b47-001f882aedb6.md",
+      "updated_at": "2026-04-23T11:55:02Z"
+    },
+    {
+      "line": 36,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fb6a38-0994-8322-b29b-c66c081189de",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_三光源无法照亮球面__68fb6a38-0994-8322-b29b-c66c081189de/001_三光源无法照亮球面__68fb6a38-0994-8322-b29b-c66c081189de.md",
+      "updated_at": "2026-04-23T11:55:11Z"
+    },
+    {
+      "line": 37,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fb4bb0-1ef0-8320-9c92-d631c6918ecf",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_求-f0__68fb4bb0-1ef0-8320-9c92-d631c6918ecf/001_求-f0__68fb4bb0-1ef0-8320-9c92-d631c6918ecf.md",
+      "updated_at": "2026-04-23T11:55:19Z"
+    },
+    {
+      "line": 38,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fb4388-d5e8-8322-a7b0-3bdfdf40a1d4",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_幂塔收敛条件__68fb4388-d5e8-8322-a7b0-3bdfdf40a1d4/001_幂塔收敛条件__68fb4388-d5e8-8322-a7b0-3bdfdf40a1d4.md",
+      "updated_at": "2026-04-23T11:55:28Z"
+    },
+    {
+      "line": 39,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fa53ad-9d00-8322-aa5f-7dec8faa2180",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_求解方程整数解__68fa53ad-9d00-8322-aa5f-7dec8faa2180/001_求解方程整数解__68fa53ad-9d00-8322-aa5f-7dec8faa2180.md",
+      "updated_at": "2026-04-23T11:55:36Z"
+    },
+    {
+      "line": 40,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fa4e90-3430-8324-b720-916e24e1a73f",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_无穷cos极限__68fa4e90-3430-8324-b720-916e24e1a73f/001_无穷cos极限__68fa4e90-3430-8324-b720-916e24e1a73f.md",
+      "updated_at": "2026-04-23T11:55:45Z"
+    },
+    {
+      "line": 41,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fa4d44-7624-8321-9041-93430e16ed69",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_求方程实根__68fa4d44-7624-8321-9041-93430e16ed69/001_求方程实根__68fa4d44-7624-8321-9041-93430e16ed69.md",
+      "updated_at": "2026-04-23T11:55:54Z"
+    },
+    {
+      "line": 42,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fa4928-b71c-8323-beb0-6f949e7d6f33",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_辅助圆解法__68fa4928-b71c-8323-beb0-6f949e7d6f33/001_辅助圆解法__68fa4928-b71c-8323-beb0-6f949e7d6f33.md",
+      "updated_at": "2026-04-23T11:56:02Z"
+    },
+    {
+      "line": 43,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68fa1270-53b8-8321-9ce9-403958f00dd9",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_有理数三平方和__68fa1270-53b8-8321-9ce9-403958f00dd9/001_有理数三平方和__68fa1270-53b8-8321-9ce9-403958f00dd9.md",
+      "updated_at": "2026-04-23T11:56:11Z"
+    },
+    {
+      "line": 44,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f9ec8a-6098-8324-bf94-4cc56aa04486",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_取值范围求解__68f9ec8a-6098-8324-bf94-4cc56aa04486/001_取值范围求解__68f9ec8a-6098-8324-bf94-4cc56aa04486.md",
+      "updated_at": "2026-04-23T11:56:20Z"
+    },
+    {
+      "line": 45,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f9dac7-2d98-8321-9971-9c8fadc6c56f",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_正多面体证明过程__68f9dac7-2d98-8321-9971-9c8fadc6c56f/001_正多面体证明过程__68f9dac7-2d98-8321-9971-9c8fadc6c56f.md",
+      "updated_at": "2026-04-23T11:56:28Z"
+    },
+    {
+      "line": 46,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f9d9cd-ed64-8322-ac80-8b93dd6fface",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_证明p226不是质数__68f9d9cd-ed64-8322-ac80-8b93dd6fface/001_证明p226不是质数__68f9d9cd-ed64-8322-ac80-8b93dd6fface.md",
+      "updated_at": "2026-04-23T11:56:37Z"
+    },
+    {
+      "line": 47,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f9d76a-d474-8323-b4b2-d785a40ac6d4",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_证明-n-是完全平方数__68f9d76a-d474-8323-b4b2-d785a40ac6d4/001_证明-n-是完全平方数__68f9d76a-d474-8323-b4b2-d785a40ac6d4.md",
+      "updated_at": "2026-04-23T11:56:46Z"
+    },
+    {
+      "line": 48,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f9d058-2af4-8324-baeb-851ef3cf5b07",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_亮着的灯__68f9d058-2af4-8324-baeb-851ef3cf5b07/001_亮着的灯__68f9d058-2af4-8324-baeb-851ef3cf5b07.md",
+      "updated_at": "2026-04-23T11:56:54Z"
+    },
+    {
+      "line": 49,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f8fe78-4670-8321-8b49-474b5b62d2e4",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_两点距离的期望__68f8fe78-4670-8321-8b49-474b5b62d2e4/001_两点距离的期望__68f8fe78-4670-8321-8b49-474b5b62d2e4.md",
+      "updated_at": "2026-04-23T11:57:03Z"
+    },
+    {
+      "line": 50,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f907ac-0944-8323-be79-cf9cf928483f",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_投硬币的期望__68f907ac-0944-8323-be79-cf9cf928483f/001_投硬币的期望__68f907ac-0944-8323-be79-cf9cf928483f.md",
+      "updated_at": "2026-04-23T11:57:12Z"
+    },
+    {
+      "line": 51,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f90ffc-79cc-8324-b0dd-d22afc98f309",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_三角形概率计算__68f90ffc-79cc-8324-b0dd-d22afc98f309/001_三角形概率计算__68f90ffc-79cc-8324-b0dd-d22afc98f309.md",
+      "updated_at": "2026-04-23T11:57:20Z"
+    },
+    {
+      "line": 52,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f97da6-3b9c-8324-a9af-735a8468f5d2",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_小球涂色的期望__68f97da6-3b9c-8324-a9af-735a8468f5d2/001_小球涂色的期望__68f97da6-3b9c-8324-a9af-735a8468f5d2.md",
+      "updated_at": "2026-04-23T11:57:29Z"
+    },
+    {
+      "line": 53,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f99382-dbec-8320-ac8f-8d252fbe8375",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_错位排列概率计算__68f99382-dbec-8320-ac8f-8d252fbe8375/001_错位排列概率计算__68f99382-dbec-8320-ac8f-8d252fbe8375.md",
+      "updated_at": "2026-04-23T11:57:38Z"
+    },
+    {
+      "line": 54,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f9017c-4704-8320-81f1-cc5e117f6181",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_100人飞机问题解析__68f9017c-4704-8320-81f1-cc5e117f6181/001_100人飞机问题解析__68f9017c-4704-8320-81f1-cc5e117f6181.md",
+      "updated_at": "2026-04-23T11:57:46Z"
+    },
+    {
+      "line": 55,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f8f72f-c430-8321-bdfb-d69604237dfb",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_勒贝格测度与积分__68f8f72f-c430-8321-bdfb-d69604237dfb/001_勒贝格测度与积分__68f8f72f-c430-8321-bdfb-d69604237dfb.md",
+      "updated_at": "2026-04-23T11:57:55Z"
+    },
+    {
+      "line": 56,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f8b62d-3bf8-8323-aeec-2105a480a438",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_函数空间与泛函分析__68f8b62d-3bf8-8323-aeec-2105a480a438/001_函数空间与泛函分析__68f8b62d-3bf8-8323-aeec-2105a480a438.md",
+      "updated_at": "2026-04-23T11:58:03Z"
+    },
+    {
+      "line": 57,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f7bb9f-8684-8328-a80d-c5274772a0fd",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_伽罗瓦群讲解__68f7bb9f-8684-8328-a80d-c5274772a0fd/001_伽罗瓦群讲解__68f7bb9f-8684-8328-a80d-c5274772a0fd.md",
+      "updated_at": "2026-04-23T11:58:12Z"
+    },
+    {
+      "line": 58,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f7782a-9c70-8323-a629-f82a8d6d2777",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_欧拉图与哈密顿图__68f7782a-9c70-8323-a629-f82a8d6d2777/001_欧拉图与哈密顿图__68f7782a-9c70-8323-a629-f82a8d6d2777.md",
+      "updated_at": "2026-04-23T11:58:21Z"
+    },
+    {
+      "line": 59,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f73cbf-2090-8321-aac6-b512d2c05ea0",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_伽罗瓦群与实根__68f73cbf-2090-8321-aac6-b512d2c05ea0/001_伽罗瓦群与实根__68f73cbf-2090-8321-aac6-b512d2c05ea0.md",
+      "updated_at": "2026-04-23T11:58:29Z"
+    },
+    {
+      "line": 60,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f75939-9408-8323-84d7-3da1e476d071",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_调和级数精确计算__68f75939-9408-8323-84d7-3da1e476d071/001_调和级数精确计算__68f75939-9408-8323-84d7-3da1e476d071.md",
+      "updated_at": "2026-04-23T11:58:38Z"
+    },
+    {
+      "line": 61,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f747e1-7228-8322-8a67-df62a957ef8d",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_伽罗瓦群分析__68f747e1-7228-8322-8a67-df62a957ef8d/001_伽罗瓦群分析__68f747e1-7228-8322-8a67-df62a957ef8d.md",
+      "updated_at": "2026-04-23T11:58:47Z"
+    },
+    {
+      "line": 62,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f746a4-1bdc-8323-a139-a84f8e2febbd",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_无法表示cos20__68f746a4-1bdc-8323-a139-a84f8e2febbd/001_无法表示cos20__68f746a4-1bdc-8323-a139-a84f8e2febbd.md",
+      "updated_at": "2026-04-23T11:58:55Z"
+    },
+    {
+      "line": 63,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f72ccd-d154-8324-a226-0c67a3fabb69",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_复数的意义__68f72ccd-d154-8324-a226-0c67a3fabb69/001_复数的意义__68f72ccd-d154-8324-a226-0c67a3fabb69.md",
+      "updated_at": "2026-04-23T11:59:04Z"
+    },
+    {
+      "line": 64,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f71b91-004c-8321-be62-a34d0951d2a8",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_留数定理讲解__68f71b91-004c-8321-be62-a34d0951d2a8/001_留数定理讲解__68f71b91-004c-8321-be62-a34d0951d2a8.md",
+      "updated_at": "2026-04-23T11:59:13Z"
+    },
+    {
+      "line": 65,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f719b5-4048-8323-a9c4-3ef6870ac5c3",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_圆锥曲线定义等价性__68f719b5-4048-8323-a9c4-3ef6870ac5c3/001_圆锥曲线定义等价性__68f719b5-4048-8323-a9c4-3ef6870ac5c3.md",
+      "updated_at": "2026-04-23T11:59:22Z"
+    },
+    {
+      "line": 66,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f66c4e-e72c-8324-a0d4-c0ff1f84ba34",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_集合论的势__68f66c4e-e72c-8324-a0d4-c0ff1f84ba34/001_集合论的势__68f66c4e-e72c-8324-a0d4-c0ff1f84ba34.md",
+      "updated_at": "2026-04-23T11:59:30Z"
+    },
+    {
+      "line": 67,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f5e1ef-be3c-8322-ae45-af2f23113414",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_最短连接线问题__68f5e1ef-be3c-8322-ae45-af2f23113414/001_最短连接线问题__68f5e1ef-be3c-8322-ae45-af2f23113414.md",
+      "updated_at": "2026-04-23T11:59:39Z"
+    },
+    {
+      "line": 68,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f654fe-7154-8321-b88c-6c1c29530463",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_积分非初等函数__68f654fe-7154-8321-b88c-6c1c29530463/001_积分非初等函数__68f654fe-7154-8321-b88c-6c1c29530463.md",
+      "updated_at": "2026-04-23T11:59:48Z"
+    },
+    {
+      "line": 69,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f6504e-ceec-8321-90ec-57f8fc945038",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_化学方程式配平分析__68f6504e-ceec-8321-90ec-57f8fc945038/001_化学方程式配平分析__68f6504e-ceec-8321-90ec-57f8fc945038.md",
+      "updated_at": "2026-04-23T11:59:57Z"
+    },
+    {
+      "line": 70,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f6303e-e368-8321-b1a7-d27bbf71efd2",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_傅里叶级数与变换__68f6303e-e368-8321-b1a7-d27bbf71efd2/001_傅里叶级数与变换__68f6303e-e368-8321-b1a7-d27bbf71efd2.md",
+      "updated_at": "2026-04-23T12:00:06Z"
+    },
+    {
+      "line": 71,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f61440-9478-8323-a48e-aacee606e677",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_麦克斯韦方程组介绍__68f61440-9478-8323-a48e-aacee606e677/001_麦克斯韦方程组介绍__68f61440-9478-8323-a48e-aacee606e677.md",
+      "updated_at": "2026-04-23T12:00:15Z"
+    },
+    {
+      "line": 72,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f5f0c2-ed08-8323-b8f7-b41cb5b19d59",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_ns方程介绍__68f5f0c2-ed08-8323-b8f7-b41cb5b19d59/001_ns方程介绍__68f5f0c2-ed08-8323-b8f7-b41cb5b19d59.md",
+      "updated_at": "2026-04-23T12:00:24Z"
+    },
+    {
+      "line": 73,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f5e9e5-a114-8324-be3c-572c8f9b5b3f",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_悬链线方程推导__68f5e9e5-a114-8324-be3c-572c8f9b5b3f/001_悬链线方程推导__68f5e9e5-a114-8324-be3c-572c8f9b5b3f.md",
+      "updated_at": "2026-04-23T12:00:32Z"
+    },
+    {
+      "line": 74,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f5e993-322c-8323-b177-9af23425214b",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_最速降线推导__68f5e993-322c-8323-b177-9af23425214b/001_最速降线推导__68f5e993-322c-8323-b177-9af23425214b.md",
+      "updated_at": "2026-04-23T12:00:41Z"
+    },
+    {
+      "line": 75,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f43ab0-47e8-8321-b4ae-e156227c1055",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_尺规作图最短路径__68f43ab0-47e8-8321-b4ae-e156227c1055/001_尺规作图最短路径__68f43ab0-47e8-8321-b4ae-e156227c1055.md",
+      "updated_at": "2026-04-23T12:00:50Z"
+    },
+    {
+      "line": 1,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f50cfe-fae0-8324-bc4e-867133f5de9b",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_开关矩阵最少操作__68f50cfe-fae0-8324-bc4e-867133f5de9b/001_开关矩阵最少操作__68f50cfe-fae0-8324-bc4e-867133f5de9b.md",
+      "updated_at": "2026-04-23T12:11:06Z"
+    },
+    {
+      "line": 77,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f51950-e1cc-8323-8ca6-90cd04208572",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_过河问题解法__68f51950-e1cc-8323-8ca6-90cd04208572/001_过河问题解法__68f51950-e1cc-8323-8ca6-90cd04208572.md",
+      "updated_at": "2026-04-23T12:01:09Z"
+    },
+    {
+      "line": 78,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f5b037-4224-8323-adbf-f0a5a97562da",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_反射轨道是否重复__68f5b037-4224-8323-adbf-f0a5a97562da/001_反射轨道是否重复__68f5b037-4224-8323-adbf-f0a5a97562da.md",
+      "updated_at": "2026-04-23T12:01:18Z"
+    },
+    {
+      "line": 2,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f5ad13-2d2c-8326-9b52-fba52606ff37",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_消失正方形错觉解析__68f5ad13-2d2c-8326-9b52-fba52606ff37/001_消失正方形错觉解析__68f5ad13-2d2c-8326-9b52-fba52606ff37.md",
+      "updated_at": "2026-04-23T12:05:39Z"
+    },
+    {
+      "line": 3,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f4ff6e-7a54-8323-a492-7a4f35aea8f3",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_复变函数旋转分析__68f4ff6e-7a54-8323-a492-7a4f35aea8f3/001_复变函数旋转分析__68f4ff6e-7a54-8323-a492-7a4f35aea8f3.md",
+      "updated_at": "2026-04-23T12:05:48Z"
+    },
+    {
+      "line": 81,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f51179-3ef8-8324-861b-5cf3d95565c2",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_积分计算方法__68f51179-3ef8-8324-861b-5cf3d95565c2/001_积分计算方法__68f51179-3ef8-8324-861b-5cf3d95565c2.md",
+      "updated_at": "2026-04-23T12:01:45Z"
+    },
+    {
+      "line": 82,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f50f49-7ff4-8322-997c-a114ecd0268b",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_证明不等式__68f50f49-7ff4-8322-997c-a114ecd0268b/001_证明不等式__68f50f49-7ff4-8322-997c-a114ecd0268b.md",
+      "updated_at": "2026-04-23T12:01:55Z"
+    },
+    {
+      "line": 4,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f50aa5-7be4-8320-8b04-dff89fc107df",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_莱姆尼斯科特曲线解析__68f50aa5-7be4-8320-8b04-dff89fc107df/001_莱姆尼斯科特曲线解析__68f50aa5-7be4-8320-8b04-dff89fc107df.md",
+      "updated_at": "2026-04-23T12:05:57Z"
+    },
+    {
+      "line": 84,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f509f7-fab0-8321-87ff-50df89494780",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_帕斯卡定理证明__68f509f7-fab0-8321-87ff-50df89494780/001_帕斯卡定理证明__68f509f7-fab0-8321-87ff-50df89494780.md",
+      "updated_at": "2026-04-23T12:02:16Z"
+    },
+    {
+      "line": 85,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f50587-4898-8324-8cbb-d3221d19d65e",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_三角形最值__68f50587-4898-8324-8cbb-d3221d19d65e/001_三角形最值__68f50587-4898-8324-8cbb-d3221d19d65e.md",
+      "updated_at": "2026-04-23T12:02:25Z"
+    },
+    {
+      "line": 86,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f50504-2208-8323-ad9f-463cd6bace4a",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_cosxy-方程分析__68f50504-2208-8323-ad9f-463cd6bace4a/001_cosxy-方程分析__68f50504-2208-8323-ad9f-463cd6bace4a.md",
+      "updated_at": "2026-04-23T12:02:34Z"
+    },
+    {
+      "line": 87,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f5001a-24b8-8322-9d27-8563d97a6b00",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_循环小数转分数__68f5001a-24b8-8322-9d27-8563d97a6b00/001_循环小数转分数__68f5001a-24b8-8322-9d27-8563d97a6b00.md",
+      "updated_at": "2026-04-23T12:02:47Z"
+    },
+    {
+      "line": 88,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f49a7e-046c-8328-9c3f-0bf151ed0bb5",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_champernowne数证明解析__68f49a7e-046c-8328-9c3f-0bf151ed0bb5/001_champernowne数证明解析__68f49a7e-046c-8328-9c3f-0bf151ed0bb5.md",
+      "updated_at": "2026-04-23T12:02:55Z"
+    },
+    {
+      "line": 89,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f465a7-7648-8320-9e1a-17c4f74b5c95",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_车轮悖论问题分析__68f465a7-7648-8320-9e1a-17c4f74b5c95/001_车轮悖论问题分析__68f465a7-7648-8320-9e1a-17c4f74b5c95.md",
+      "updated_at": "2026-04-23T12:03:04Z"
+    },
+    {
+      "line": 90,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f45ea5-8be8-8324-a977-8b062a4132eb",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_最小黑格数分析__68f45ea5-8be8-8324-a977-8b062a4132eb/001_最小黑格数分析__68f45ea5-8be8-8324-a977-8b062a4132eb.md",
+      "updated_at": "2026-04-23T12:03:13Z"
+    },
+    {
+      "line": 91,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f45e1e-9d1c-8322-b846-18dd0231e076",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_绳子测量时间__68f45e1e-9d1c-8322-b846-18dd0231e076/001_绳子测量时间__68f45e1e-9d1c-8322-b846-18dd0231e076.md",
+      "updated_at": "2026-04-23T12:03:22Z"
+    },
+    {
+      "line": 92,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f456a2-1044-8323-b231-e09a75b95dd9",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_球面概率计算__68f456a2-1044-8323-b231-e09a75b95dd9/001_球面概率计算__68f456a2-1044-8323-b231-e09a75b95dd9.md",
+      "updated_at": "2026-04-23T12:03:31Z"
+    },
+    {
+      "line": 93,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f45093-dda0-8320-9a6e-e78a9999ecbb",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_四维空间解析__68f45093-dda0-8320-9a6e-e78a9999ecbb/001_四维空间解析__68f45093-dda0-8320-9a6e-e78a9999ecbb.md",
+      "updated_at": "2026-04-23T12:03:39Z"
+    },
+    {
+      "line": 94,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f44f1b-d8d8-8323-815d-5150218a347a",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_黄金螺旋特例解释__68f44f1b-d8d8-8323-815d-5150218a347a/001_黄金螺旋特例解释__68f44f1b-d8d8-8323-815d-5150218a347a.md",
+      "updated_at": "2026-04-23T12:03:48Z"
+    },
+    {
+      "line": 5,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f44b17-7c4c-8323-b4bf-066d132f3008",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_求bd长度__68f44b17-7c4c-8323-b4bf-066d132f3008/001_求bd长度__68f44b17-7c4c-8323-b4bf-066d132f3008.md",
+      "updated_at": "2026-04-23T12:06:05Z"
+    },
+    {
+      "line": 96,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f44993-33ac-8324-886f-4c9b2653d2bd",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_阴影三角形面积求解__68f44993-33ac-8324-886f-4c9b2653d2bd/001_阴影三角形面积求解__68f44993-33ac-8324-886f-4c9b2653d2bd.md",
+      "updated_at": "2026-04-23T12:04:06Z"
+    },
+    {
+      "line": 97,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f44219-892c-8323-9ff3-c7c5440e796f",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_求圆的面积__68f44219-892c-8323-9ff3-c7c5440e796f/001_求圆的面积__68f44219-892c-8323-9ff3-c7c5440e796f.md",
+      "updated_at": "2026-04-23T12:04:16Z"
+    },
+    {
+      "line": 98,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f440f1-2d14-8320-9950-726539d19154",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_求ab长度__68f440f1-2d14-8320-9950-726539d19154/001_求ab长度__68f440f1-2d14-8320-9950-726539d19154.md",
+      "updated_at": "2026-04-23T12:04:26Z"
+    },
+    {
+      "line": 99,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f35581-fec0-8322-b913-1a1b3ed8518c",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_阴影四边形面积__68f35581-fec0-8322-b913-1a1b3ed8518c/001_阴影四边形面积__68f35581-fec0-8322-b913-1a1b3ed8518c.md",
+      "updated_at": "2026-04-23T12:04:35Z"
+    },
+    {
+      "line": 100,
+      "url": "https://chatgpt.com/g/g-p-68f2244e78d08191a4c6819522c59936-jing-dian-shu-xue-ti-100li-1/c/68f350ec-a484-8324-8b7a-a22a8122b4eb",
+      "status": "success",
+      "project_name": "经典数学题100例 1",
+      "output_path": "/Users/lihaidong/code/ai-math-notes/chatgpt/经典数学题100例-1/001_抛物线几何最值__68f350ec-a484-8324-8b7a-a22a8122b4eb/001_抛物线几何最值__68f350ec-a484-8324-8b7a-a22a8122b4eb.md",
+      "updated_at": "2026-04-23T12:04:44Z"
+    }
+  ]
+}

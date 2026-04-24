@@ -1,0 +1,358 @@
+[
+  {
+    "code": "source.project_url.parsed",
+    "message": "Recognized URL host=\"chatgpt.com\" path_type=\"gpt_conversation\" conversation_id=\"68f654fe-7154-8321-b88c-6c1c29530463\"."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 2 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 2 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 2 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 3 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 4 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 2 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 2 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 2 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 2 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 1 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 2 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "math.symbol_normalized",
+    "message": "Conversation \"积分非初等函数\": Normalized 2 Unicode math symbol(s) in plain text."
+  },
+  {
+    "code": "math.block_wrapped",
+    "message": "Conversation \"积分非初等函数\": Wrapped 1 standalone formula line(s) into a math block."
+  },
+  {
+    "code": "source.project_url.fetch_success",
+    "message": "Project URL fetch returned 38 message(s) and was rendered into Markdown."
+  }
+]
