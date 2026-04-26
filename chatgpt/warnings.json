@@ -1,10 +1,6 @@
 [
   {
-    "code": "source.project_url.retry_success",
-    "message": "Conversation 68fec776-9050-8324-8d19-1471eb922032 succeeded on retry after the previous full Project 1 export had failed."
-  },
-  {
     "code": "source.project_url_list.completed",
-    "message": "Processed 100 project URL(s): 100 succeeded, 0 failed, 0 skipped."
+    "message": "Processed 100 project URL(s) for 经典数学题100例 2: 100 succeeded, 0 failed, 0 skipped."
   }
 ]
